@@ -38,6 +38,11 @@ A dynamic and interactive quiz application built with **React**, **React Query**
 2. Click **Next** to proceed to the next question.
 3. Track your score and progress in real-time.
 
+## 📽️ Video
+
+<video src="https://github.com/user-attachments/assets/c2e4ddad-5bb1-495b-9e8c-f1e304eac3fd" controls="controls" style="max-width: 100%;">
+</video>
+
 ## 📷 Screenshots
 
 ![Home Screen](public/one.png)
